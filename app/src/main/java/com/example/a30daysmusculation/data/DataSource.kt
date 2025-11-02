@@ -5,7 +5,7 @@ import com.example.musculation30days.ui.model.Tip
 
 object DataSource {
     val tips = listOf(
-        // SEMAINE 1 - FONDATIONS
+        // List of class 
         Tip(1, 1, "Jour 1: Échauffement & Forme",
             "Apprendre les mouvements de base et l'importance de l'échauffement. 10min cardio + étirements dynamiques.",
             R.drawable.day1_warmup),
